@@ -1,0 +1,5 @@
+[TYPECHECK]
+
+ignored-modules = exchangelib
+
+[FORMAT]
