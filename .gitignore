@@ -1,0 +1,8 @@
+*.csv
+build/
+dist/
+**/*.log
+.idea/
+__pycache__/
+.vscode/
+env/

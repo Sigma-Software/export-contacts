@@ -1,0 +1,2 @@
+pyinstaller --onefile --windowed --noconfirm --hidden-import="pkg_resources.py2_warn" -i="../src/ui/styles/common/logo.icns" -n="ExportContacts" ../src/main.py
+dmgbuild -s dmg_settings.py "ExportContacts" ExportContacts.dmg

@@ -1,0 +1,26 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="resources">
+    <file>styles/Windows/icons/success.png</file>
+    <file>styles/Windows/icons/error.png</file>
+    <file>styles/Windows/icons/close-green.png</file>
+    <file>styles/Windows/icons/close-red.png</file>
+    <file>styles/Windows/icons/switcher.png</file>
+    <file>styles/Windows/icons/switcher-on.png</file>
+    <file>styles/Windows/icons/close-white.png</file>
+    <file>styles/Windows/icons/plus-icon.png</file>
+
+    <file>styles/Darwin/icons/success.png</file>
+    <file>styles/Darwin/icons/error.png</file>
+    <file>styles/Darwin/icons/close-green.png</file>
+    <file>styles/Darwin/icons/close-red.png</file>
+    <file>styles/Darwin/icons/switcher.png</file>
+    <file>styles/Darwin/icons/switcher-on.png</file>
+    <file>styles/Darwin/icons/close-white.png</file>
+    <file>styles/Darwin/icons/plus-icon.png</file>
+
+    <file>styles/common/icons/logo.png</file>
+    <file>styles/common/logo.ico</file>
+    <file>styles/common/icons/background.png</file>
+    <file>styles/common/icons/logo_sigma_outline.png</file>
+</qresource>
+</RCC>
