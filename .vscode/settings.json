@@ -1,0 +1,10 @@
+{
+    "python.pipenvPath": "C:\\Users\\dmytro.lapshyn\\AppData\\Roaming\\Python\\Python38\\Scripts\\pipenv.exe",
+    "python.pythonPath": "C:\\Users\\dmytro.lapshyn\\.virtualenvs\\MailLeads-tGibtx81\\Scripts\\python.exe",
+    "files.exclude": {
+        "**/*.csv": true,
+        "**/*.log": true,
+        "build/": true,
+        "dist/": true
+    }
+}
